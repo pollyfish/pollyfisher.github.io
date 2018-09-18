@@ -4,7 +4,7 @@ body{font: 14px Helvetica, Sans-Serif; color: #000066;
 #myimage {margin-left:350px;}
 
 p {
-color: #000066;
+font: 14px Helvetica, Sans-Serif; color: #000066;
 }
 
 
@@ -18,18 +18,18 @@ margin: 40px auto 60px;}
 	font-size: 16px
 	border-bottom:1px solid #000066;
 }
-#myname {font-size: 24px; color: #000099;
+#myname {font-size: 24px; color: #000066;
 margin-left: 350px;
 	}
 	
 	
-	#bulletpoints {
+	#bulletpoints {font: 14px Helvetica, Sans-Serif; color: #000066;
 	}
-	h5 {color: #000099;}
+	h5 {color: #000066;}
 	
-	h3 {color: #000099;}
+	h3 {color: #000066;}
 	
-	h4 {color: #000099;}
+	h4 {color: #000066;}
 	
 	hr{
     border:0;
