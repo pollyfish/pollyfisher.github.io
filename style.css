@@ -7,6 +7,8 @@ p {
 font: 14px Helvetica, Sans-Serif; color: #000066;
 }
 
+#mytitle {font-size: 24px; color: #000066; margin-left: 255px;
+}
 
 #container {width: 800px;
 margin: 40px auto 60px;}
@@ -21,16 +23,16 @@ margin: 40px auto 60px;}
 #myname {font-size: 24px; color: #000066;
 margin-left: 350px;
 	}
-	
-	
+
+
 	#bulletpoints {font: 14px Helvetica, Sans-Serif; color: #000066;
 	}
 	h5 {color: #000066;}
-	
+
 	h3 {color: #000066;}
-	
+
 	h4 {color: #000066;}
-	
+
 	hr{
     border:0;
     margin:0;
